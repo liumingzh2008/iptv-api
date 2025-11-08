@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-11-08 06:15:47,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226338/1.m3u8?
+2025-11-08 18:17:48,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226338/1.m3u8?
 
 📺央视频道,#genre#
 CCTV-1,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226338/1.m3u8?
@@ -592,10 +592,12 @@ CETV4,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv4/50/20240709/index.m3u8?
 欢笑剧场,http://z.b.bkpcp.top/m.php?id=hxjc
 欢笑剧场,http://gat.bkpcp.top/ymg.php?id=hxjc
 欢笑剧场,http://goo.bkpcp.top/mg/hxjc
+欢笑剧场,https://shyd.695847.xyz/cms001/ch00000090990000001490/index.m3u8?IASHttpSessionId=RR4967720251014100028031761&ispcode=12
 法治天地,http://php.jdshipin.com/itv6.php?cid=bestzb&id=9001547084732463424
 法治天地,http://z.b.bkpcp.top/m.php?id=fztd
 第一财经,http://[2409:8087:5e00:24::2d]:6610/000000001000/1/5000000010000027146/index.m3u8?channel-id=bestzb&Contentid=5000000010000027146&livemode=1&stbId=3
 第一财经,http://ls.qingting.fm/live/276.m3u8
+都市剧场,https://shyd.695847.xyz/cms001/ch00000090990000001203/index.m3u8?IASHttpSessionId=RR4967720251014100028031761&ispcode=12
 
 ☘️重庆频道,#genre#
 
@@ -996,8 +998,9 @@ CHC动作电影,http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_c
 黑莓电影,http://[2409:8087:1a0b:df::4014]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8
 黑莓电影,http://[2409:8087:1a0b:df::4014]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225743/index.m3u8
 靖天映画,https://4gtv.dxjc.pp.ua/4gtv-4gtv055/index.m3u8
-靖天映画,https://4gtv.dxjc.pp.ua/li-4gtv-4gtv055/index.m3u8
+靖天映画,https://mao.ffmking888.dpdns.org/?id=6Z2W5aSp5pig55Wr&auth=30234cedf871581989d3c91a3daec1e9f50e024aafcfa2247e7d44d91bb8d02fbc3f571b2d67f9d82642cc1d0f133d89
 靖天映画,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv055
+靖天戏剧,https://mao.ffmking888.dpdns.org/?id=6Z2W5aSp5oiy5YqH5Yaw&auth=30234cedf871581989d3c91a3daec1e9f50e024aafcfa2247e7d44d91bb8d02fbc3f571b2d67f9d82642cc1d0f133d89
 靖天戏剧,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv058
 
 🎥咪咕直播,#genre#
@@ -1072,7 +1075,6 @@ CCTV-5+,http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/0000000100000006000000000000
 精品体育,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226328/1.m3u8?
 精品体育,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225709/2/index.m3u8
 睛彩篮球,http://[2409:8087:1a01:df::4055]:80/TVOD/88888888/224/3221225901/main.m3u8
-睛彩广场舞,http://13937899.xyz:35455/itv/3000000020000011523.m3u8?cdn=FifastbLive
 睛彩广场舞,http://zjzcf.synology.me:35455/itv/3000000020000011523.m3u8?cdn=FifastbLive
 风云足球,http://[2409:8087:7001:20:2::3]/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226984/index.m3u8
 JJ斗地主,https://live.iill.top/douyin/685317364746
