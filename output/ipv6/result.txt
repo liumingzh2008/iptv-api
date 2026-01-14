@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-01-14 06:19:17,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226338/1.m3u8?
+2026-01-14 18:21:47,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226338/1.m3u8?
 
 📺央视频道,#genre#
 CCTV-1,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226338/1.m3u8?
@@ -612,7 +612,7 @@ CETV2,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv2/50/20240709/index.m3u8?
 无锡经济,http://stream.thmz.com/wxtv5/playlist.m3u8
 无锡经济,http://stream.thmz.com/wxtv5/sd/live.m3u8?zjiangsd#http://stream.thmz.com/wxtv5/playlist.m3u8?_upt=10155d141706166867#http://stream.thmz.com/wxtv5/playlist.m3u8#http://stream.thmz.com/wxtv5/sd/live.m3u8?_upt=cfacd5221704890772
 无锡经济,http://stream.thmz.com/wxtv5/sd/live.m3u8?zjiangsd
-无锡经济,http://stream.thmz.com/wxtv5/playlist.m3u8?_upt=10155d141706166867
+无锡经济,http://stream.thmz.com/wxtv5/sd/live.m3u8?_upt=cfacd5221704890772
 无锡都市资讯,http://stream.thmz.com/wxtv3/sd/live.m3u8
 无锡都市资讯,http://stream.thmz.com/wxtv3/sd/live.m3u8?zjiangsd#http://stream.thmz.com/wxtv3/sd/live.m3u8?_upt=978cd8731706199708#http://stream.thmz.com/wxtv3/playlist.m3u8#http://stream.thmz.com/wxtv3/playlist.m3u8?_upt=1758133b1706166861
 无锡都市资讯,http://stream.thmz.com/wxtv3/playlist.m3u8?_upt=1758133b1706166861
