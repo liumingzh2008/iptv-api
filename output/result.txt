@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-03-14 18:23:57,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226338/1.m3u8?
+2026-03-15 06:21:40,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226338/1.m3u8?
 
 📺央视频道,#genre#
 CCTV-1,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226338/1.m3u8?
@@ -871,8 +871,6 @@ CCTV-17,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888
 甘肃经济,https://hls.gstv.com.cn/49048r/10iv1j.m3u8
 甘肃都市,https://hls.gstv.com.cn/49048r/l54391.m3u8
 甘肃少儿,https://hls.gstv.com.cn/49048r/922k96.m3u8
-白银综合,https://play.kankanlive.com/live/1720408089419110.m3u8
-白银综合,http://play.kankanlive.com/live/1720408089419110.m3u8
 
 ☘️新疆频道,#genre#
 新疆卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225635/index.m3u8
