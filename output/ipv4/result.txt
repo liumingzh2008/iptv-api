@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-05-09 06:53:56,http://bp-resource-dfl.bestv.cn/148/3/video.m3u8
+2026-05-09 18:54:26,http://bp-resource-dfl.bestv.cn/148/3/video.m3u8
 
 📺央视频道,#genre#
 
@@ -37,7 +37,6 @@
 ☘️陕西频道,#genre#
 
 ☘️福建频道,#genre#
-福建公共,https://live.264788.xyz/channel/fujianxiangcungonggong?streamid=2987cc24bada6a8c25589409a6452d9e&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 
 ☘️海南频道,#genre#
 
