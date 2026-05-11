@@ -1,7 +1,8 @@
 🕘️更新时间,#genre#
-2026-05-11 06:41:31,http://bp-resource-dfl.bestv.cn/148/3/video.m3u8
+2026-05-11 20:36:47,https://cdn4.skygo.mn/live/disk1/CCTV-10/HLSv3-FTA/CCTV-10.m3u8
 
 📺央视频道,#genre#
+CCTV-10,https://cdn4.skygo.mn/live/disk1/CCTV-10/HLSv3-FTA/CCTV-10.m3u8
 
 💰央视付费频道,#genre#
 
@@ -19,6 +20,8 @@
 ☘️重庆频道,#genre#
 
 ☘️江苏频道,#genre#
+
+☘️辽宁频道,#genre#
 
 ☘️湖南频道,#genre#
 
@@ -41,6 +44,8 @@
 ☘️河南频道,#genre#
 
 ☘️河北频道,#genre#
+
+☘️贵州频道,#genre#
 
 ☘️甘肃频道,#genre#
 
