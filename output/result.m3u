@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/liumingzh2008/iptv-api/refs/heads/master/output/epg/epg.gz"
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2026-09-23 22:39:01
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="🕘️更新时间",2026-09-24 08:12:42
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226338/1.m3u8?
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/CCTV1.png" group-title="📺央视频道",CCTV-1
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226338/1.m3u8?
@@ -1160,17 +1160,17 @@ http://live.spccmc.com:90/live/spxwzh.m3u8?zsicd
 #EXTINF:-1 tvg-name="汶川新闻综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/汶川新闻综合.png" group-title="☘️四川频道",汶川新闻综合
 http://live.iwcmt.cn:90/live/zhxw.m3u8
 #EXTINF:-1 tvg-name="汶川新闻综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/汶川新闻综合.png" group-title="☘️四川频道",汶川新闻综合
-http://file.ysxtv.cn/cms/videos/nmip-media/channellive/channel4/playlist.m3u8?zsicd#rtmp://tv.mcrm.org.cn:1935/channellive/tv01
-#EXTINF:-1 tvg-name="汶川新闻综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/汶川新闻综合.png" group-title="☘️四川频道",汶川新闻综合
 http://live.iwcmt.cn:90/live/zhxw.m3u8?zsicd
+#EXTINF:-1 tvg-name="汶川新闻综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/汶川新闻综合.png" group-title="☘️四川频道",汶川新闻综合
+http://file.ysxtv.cn/cms/videos/nmip-media/channellive/channel4/playlist.m3u8?zsicd#rtmp://tv.mcrm.org.cn:1935/channellive/tv01
 #EXTINF:-1 tvg-name="沐川综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/沐川综合.png" group-title="☘️四川频道",沐川综合
 http://file.ysxtv.cn/cms/videos/nmip-media/channellive/channel4/playlist.m3u8?zsicd
 #EXTINF:-1 tvg-name="泸县新闻综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/泸县新闻综合.png" group-title="☘️四川频道",泸县新闻综合
 http://lxfile.lxxcb.cn/nmip-media/channellive/channel103799/playlist.m3u8
 #EXTINF:-1 tvg-name="泸县新闻综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/泸县新闻综合.png" group-title="☘️四川频道",泸县新闻综合
-http://lxfile.lxxcb.cn:80/nmip-media/channellive/channel103799/playlist.m3u8
-#EXTINF:-1 tvg-name="泸县新闻综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/泸县新闻综合.png" group-title="☘️四川频道",泸县新闻综合
 http://lxfile.lxxcb.cn/nmip-media/channellive/channel103799/playlist.m3u8?zsicd
+#EXTINF:-1 tvg-name="泸县新闻综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/泸县新闻综合.png" group-title="☘️四川频道",泸县新闻综合
+http://lxfile.lxxcb.cn:80/nmip-media/channellive/channel103799/playlist.m3u8
 #EXTINF:-1 tvg-name="营山电视台" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/营山电视台.png" group-title="☘️四川频道",营山电视台
 http://file.ysxtv.cn/cms/videos/nmip-media/channellive/channel4/playlist.m3u8?zsicd#http://file.ysxtv.cn/cms/videos/nmip-media/channellive/channel4/playlist.m3u8
 #EXTINF:-1 tvg-name="陕西公共" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/陕西公共.png" group-title="☘️陕西频道",陕西公共
@@ -1184,9 +1184,9 @@ https://live.zzyxxw.com:2443/live/xwzh.m3u8
 #EXTINF:-1 tvg-name="云霄综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/云霄综合.png" group-title="☘️福建频道",云霄综合
 http://live.zzyxxw.com:85/live/xwzh.m3u8
 #EXTINF:-1 tvg-name="云霄综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/云霄综合.png" group-title="☘️福建频道",云霄综合
-http://live.zzyxxw.com:85/live/xwzh.m3u8?fujian
-#EXTINF:-1 tvg-name="云霄综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/云霄综合.png" group-title="☘️福建频道",云霄综合
 http://live.zzyxxw.com:85/live/xwzh.m3u8?fujian,
+#EXTINF:-1 tvg-name="云霄综合" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/云霄综合.png" group-title="☘️福建频道",云霄综合
+http://live.zzyxxw.com:85/live/xwzh.m3u8?fujian
 #EXTINF:-1 tvg-name="厦门卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/厦门卫视.png" group-title="☘️福建频道",厦门卫视
 http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000005000266006/1.m3u8
 #EXTINF:-1 tvg-name="厦门卫视" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/main/tv/厦门卫视.png" group-title="☘️福建频道",厦门卫视
