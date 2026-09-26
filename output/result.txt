@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-09-25 23:00:30,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226338/1.m3u8?
+2026-09-26 08:21:07,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226338/1.m3u8?
 
 📺央视频道,#genre#
 CCTV-1,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226338/1.m3u8?
@@ -545,7 +545,6 @@ CETV1,http://198.204.228.26/live/cetv1hd.m3u8
 
 ☘️浙江频道,#genre#
 浙江生活,http://ls.qingting.fm/live/1099.m3u8
-嘉兴新闻综合,http://live.zohi.tv/video/s10001-fztv-1/index.m3u8
 
 ☘️北京频道,#genre#
 北京新闻,http://[2409:8087:1:20:20::2a]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226437/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EncK5uEAdYwWMsf8WJWI1mQ%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNO_LSIQh_h2P54Cz-MqgJqC%2CEND
